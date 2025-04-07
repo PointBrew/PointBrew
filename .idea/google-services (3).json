@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682850487944",
+    "project_id": "pointbrew-83e38",
+    "storage_bucket": "pointbrew-83e38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682850487944:android:7f07ca2a1a65906c22193d",
+        "android_client_info": {
+          "package_name": "com.example.pointbrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZNRlZahMoIM1oWpXFlcOAsE_AzqtOqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

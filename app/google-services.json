@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682850487944",
+    "project_id": "pointbrew-83e38",
+    "storage_bucket": "pointbrew-83e38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682850487944:android:7f07ca2a1a65906c22193d",
+        "android_client_info": {
+          "package_name": "com.example.pointbrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682850487944-imgvfcdr90h5mp0kim0hqkft9sfg8rsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pointbrew",
+            "certificate_hash": "f8c441705454e5f88c177873a84f0bf3fbe75f50"
+          }
+        },
+        {
+          "client_id": "682850487944-rsfpcp82ml7lc2rivaqmev5cp7ndli8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZNRlZahMoIM1oWpXFlcOAsE_AzqtOqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682850487944-rsfpcp82ml7lc2rivaqmev5cp7ndli8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

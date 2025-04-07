@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PointBrew" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_brown</item>
+        <item name="colorPrimaryVariant">@color/coffee_brown</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/cream</item>
+        <item name="colorSecondaryVariant">@color/light_brown</item>
+        <item name="colorOnSecondary">@color/coffee_brown</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/dark_brown</item>
+        <!-- Background color. -->
+        <item name="android:windowBackground">@color/dark_brown</item>
+        <!-- Text color. -->
+        <item name="android:textColor">@color/cream</item>
+        <!-- No action bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
